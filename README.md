@@ -17,3 +17,6 @@ Takes your webcam stream and renders across multiple windows. Total width and he
 
  - `cd path/to/repo/directory`
  - `node server`
+ - Open multiple separate non-incognito browser windows (use the same browser app).
+ - On each, visit `http://localhost:3000`
+ - Resize each window and enjoy!
