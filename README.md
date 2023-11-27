@@ -7,9 +7,10 @@ Takes your webcam stream and renders across multiple windows. Total width and he
 ## Installation
 
  - Clone this repo
- - Install NodeJS
+ - Install NodeJS and npm
  - `cd path/to/cloned/repo`
  - `npm init -y`
+ - `npm install`
 
 
 ## Launch
